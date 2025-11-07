@@ -1,0 +1,98 @@
+
+@media (min-width: 712px){
+    .honorsBg{
+        width: 38rem;
+        height: 30.5rem;
+        margin-top: 14rem;
+        overflow-y: scroll;
+    }
+    .honorsSwiper{
+        width: 36rem!important;
+    }
+    .imgTitle{
+        font-size: 28px;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (min-width: 768px){
+    .honorsBg{
+        width: 40rem;
+        height: 32.5rem;
+        margin-top: 14rem;
+        overflow-y: scroll;
+    }
+    .honorsSwiper{
+        width: 36rem!important;
+    }
+    .imgTitle{
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 844px){
+    .honorsBg{
+        width: 28rem;
+        height: 20.5rem;
+        margin-top: 3rem;
+        overflow-y: scroll;
+    }
+    .honorsSwiper{
+        width: 22rem!important;
+    }
+    .imgTitle{
+        margin-bottom: 0;
+    }  
+}
+
+@media (min-width: 1024px){
+    .honorsBg{
+        width: 44rem;
+        height: 35.5rem;
+        margin-top: 5rem;
+        overflow-y: scroll;
+    }
+    .honorsSwiper{
+        width: 38rem!important;
+    }
+    .imgTitle{
+        margin-bottom: 1rem;
+    }
+  
+}
+
+@media (min-width: 1138px){
+    .honorsBg{
+        width: 44rem;
+        height: 35.5rem;
+        margin-top: 5rem;
+        overflow-y: scroll;
+    }
+    .honorsSwiper{
+        width: 38rem!important;
+    }
+    .imgTitle{
+        margin-bottom: 1rem;
+    }
+  
+}
+
+@media (min-width: 1440px){
+    .honorsBg{
+        overflow-y: hidden;
+        width: 55rem;
+        height: 42.5rem;
+        margin-top: 5rem;
+    }
+    .honorsSwiper{
+        width: 48rem!important;
+    }
+    .imgTitle{
+        margin-bottom: 2rem;
+        font-size: 34px!important;
+    }
+    .prev{
+        font-size: 32px;
+        color: aqua;
+    }
+}

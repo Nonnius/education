@@ -80,12 +80,12 @@
 @media (min-width: 1440px){
     .honorsBg{
         overflow-y: hidden;
-        width: 55rem;
-        height: 42.5rem;
+        width: 48rem;
+        height: 37.5rem;
         margin-top: 5rem;
     }
     .honorsSwiper{
-        width: 48rem!important;
+        width: 40rem!important;
     }
     .imgTitle{
         margin-bottom: 2rem;

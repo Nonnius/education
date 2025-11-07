@@ -53,16 +53,16 @@ const Navbar = () => {
                     />
                     {/*Mobile Menu Items*/}
                     <nav className='mt-10 text-white space-y-4 text-center'>
-                        <a href="https://reid-dev-portfolio.netlify.app" 
+                        <a href="https://reid-dev-portfolio.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-white font-semibold">Home</a>
-                        <a href="https://ms-credentials.netlify.app" 
+                        <a href="https://ms-credentials.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-white font-semibold">MS Credentials</a>
-                        <a href="https://project-gallery.netlify.app" 
+                        <a href="https://project-gallery.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-white font-semibold">Projects Gallery</a>                
-                        <a href="https://reid-dev-portfolio.netlify.app/#contact" 
+                        <a href="https://reid-dev-portfolio.vercel.app/#contact" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-white font-semibold">Contact</a>                        
                     </nav>

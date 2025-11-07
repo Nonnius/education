@@ -1,8 +1,8 @@
 export const navItems = [
-  { name: "Home", path: "https://reid-dev-portfolio.netlify.app" },
-  { name: "MS Credentials", path: "https://ms-credentials.netlify.app" },
-  { name: "Projects Gallery", path: "https://project-gallery.netlify.app" },
-  { name: "Contact", path: "https://reid-dev-portfolio.netlify.app/#contact" }
+  { name: "Home", path: "https://reid-dev-portfolio.vercel.app" },
+  { name: "MS Credentials", path: "https://ms-credential.vercel.app" },
+  { name: "Projects Gallery", path: "https://project-gallery.vercel.app" },
+  { name: "Contact", path: "https://reid-dev-portfolio.vercel.app/#contact" }
 ];
 
 import AssociatesDegreeA from '../assets/AssociatesDegreeA.jpg';

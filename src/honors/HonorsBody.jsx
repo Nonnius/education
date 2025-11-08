@@ -34,7 +34,7 @@ const HonorsBody = () => {
                 el: '.swiper-pagination', 
                 clickable: true,
             }}
-            navigations
+            navigation={true}
             breakpoints={{
                 390: {slidesPerView: 1},
                 412: {slidesPerView: 1},

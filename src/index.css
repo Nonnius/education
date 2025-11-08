@@ -12,3 +12,10 @@
    
 }
 
+html, body {
+  /* Allow vertical scrolling, only block horizontal overflow to prevent layout shift */
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100%;
+  -webkit-overflow-scrolling: touch; /* smoother scrolling on mobile */
+}

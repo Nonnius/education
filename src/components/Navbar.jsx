@@ -49,22 +49,22 @@ const Navbar = () => {
             <div  className='fixed inset-0 z-[100] bg-white/10 backdrop-blur-md bg-opacity-90 flex flex-col items-center 
             p-6 transition-all duration-300 md:hidden'>
                 <MdClose onClick={()=> setShowMobileMenu(false)}
-                    className='text-white hover:text-orange-800 text-3xl ml-[20rem] cursor-pointer'
+                    className='text-yellow-600 text-3xl ml-[20rem] cursor-pointer'
                     />
                     {/*Mobile Menu Items*/}
-                    <nav className='mt-10 text-orange-800 text-md space-y-4 text-center'>
+                    <nav className='mt-10 text-yellow-600 text-[24px] space-y-4 text-center'>
                         <a href="https://reid-dev-portfolio.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
-                        className="block cursor-pointer text-orange-800 font-semibold">Home</a>
+                        className="block cursor-pointer text-yellow-600 font-semibold">Home</a>
                         <a href="https://reid-ms-training.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
-                        className="block cursor-pointer text-orange-800 font-semibold">MS Credentials</a>
+                        className="block cursor-pointer text-yellow-600 font-semibold">MS Credentials</a>
                         <a href="https://project-gallery.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
-                        className="block cursor-pointer text-orange-800 font-semibold">Projects Gallery</a>                
+                        className="block cursor-pointer text-yellow-600 font-semibold">Projects Gallery</a>                
                         <a href="https://reid-dev-portfolio.vercel.app/#contact" 
                         onClick={() => setShowMobileMenu(false)}
-                        className="block cursor-pointer text-orange-800 font-semibold">Contact</a>                        
+                        className="block cursor-pointer text-yellow-600 font-semibold">Contact</a>                        
                     </nav>
             </div>
         )}

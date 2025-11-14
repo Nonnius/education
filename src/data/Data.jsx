@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "Home", path: "https://reid-dev-portfolio.vercel.app" },
   { name: "MS Credentials", path: "https://ms-credential.vercel.app" },
-  { name: "Projects Gallery", path: "https://project-gallery.vercel.app" },
+  { name: "Projects Gallery", path: "https://project-gallery-blush.vercel.app" },
   { name: "Contact", path: "https://reid-dev-portfolio.vercel.app/#contact" }
 ];
 

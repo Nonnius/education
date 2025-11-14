@@ -59,7 +59,7 @@ const Navbar = () => {
                         <a href="https://reid-ms-training.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-yellow-600 font-semibold">MS Credentials</a>
-                        <a href="https://project-gallery.vercel.app" 
+                        <a href="https://project-gallery-blush.vercel.app" 
                         onClick={() => setShowMobileMenu(false)}
                         className="block cursor-pointer text-yellow-600 font-semibold">Projects Gallery</a>                
                         <a href="https://reid-dev-portfolio.vercel.app/#contact" 
